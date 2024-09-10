@@ -1,7 +1,8 @@
 👋 Hi, I’m @ZorAlf
-My Name is Alfandi Ahmad. Computer Science Student
-
-Welcome..
+ 
+ My Name is Alfandi Ahmad. Computer Science Student
+---
+ Welcome..
 
 <!---
 ZorAlf/ZorAlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
